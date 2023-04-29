@@ -1,0 +1,17 @@
+DROP TABLE
+    Ibs.Individual,
+    Ibs.Request_Info,
+    Ibs.Business_Litigation,
+    Ibs.Individual_Litigation,
+    Ibs.Bankruptcy_Records,
+    Ibs.Individual_Financial_Search,
+    Ibs.Individual_Commercial_Search,
+    Ibs.Individual_Legal_Search,
+    Ibs.Individual_Financial_Search_Breakdown,
+    Ibs.Individual_Commercial_Search_Breakdown,
+    Ibs.Individual_Legal_Search_Breakdown,
+    Ibs.Individual_Current_Business,
+    Ibs.Current_Business_Details,
+    Ibs.Individual_Previous_Business,
+    Ibs.Business_Litigation_Trace,
+    Ibs.Accreditations;

@@ -1,0 +1,30 @@
+{
+    "WRIT_SUM_COURT_TYPE": [
+        "SC / WOS",
+        "DC / WOS",
+        "DC / OC",
+        "SC / OC",
+        "MC / WOS",
+        "MC / OC"
+    ],
+    "TIMESPAN": [
+        3, 6, 9, 12, 24, 36
+    ],
+    "STATUS": [
+        "Concluded", 
+        "Bankruptcy Related", 
+        "Discharged", 
+        "Others"
+    ],
+    "ENTITY_TYPE": [
+        "Company", 
+        "Individual"
+    ],
+    "CAUSE": [
+        "Negligence & Accidents", 
+        "Financials", 
+        "Contracts", 
+        "Provision of Goods and Services", 
+        "Others"
+    ]
+}

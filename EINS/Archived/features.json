@@ -1,0 +1,191 @@
+{
+    "Request Criteria": [
+        "Date of Request",
+        "Name of Requestor",
+        "Requested Entity Name",
+        "Requested Entity Number",
+        "File Reference Number"
+    ],
+    "Search Record": [
+        "Entity Name",
+        "Entity Number"
+    ],
+    "Details of Company": [
+        "Entity Name",
+        "Entity Number",
+        "Date of Registration (dd/mm/yyyy)",
+        "Country/Region of Incorporation/Registration",
+        "Date of Change of Name",
+        "Former Name (Effective Date)",
+        "Type of Company",
+        "Registered Office Address",
+        "Date of Change of Address",
+        "Principal Activity / Activities",
+        "Status",
+        "Status Date"
+    ],
+    "Capital Structure": [
+        "Capital Structure",
+        "No. of Shares",
+        "Currency",
+        "Amount"
+    ],
+    "Charges": [
+        "Charge No",
+        "Date of Charge",
+        "Chargee(s)",
+        "Amount Secured and Currency",
+        "Status"
+    ],
+    "Auditors": [
+        "Name",
+        "Date of Appointment"
+    ],
+    "Officers Auth. Rep": [
+        "Name",
+        "ID",
+        "Address",
+        "Date of Change of Address",
+        "Nationality/Citizenship",
+        "Date of Appointment",
+        "Position Held"
+    ],
+    "Shareholders": [
+        "Name",
+        "ID",
+        "Nationality/Citizenship",
+        "Address",
+        "Date of Change of Address",
+        "Type",
+        "No Of Shares",
+        "Currency"
+    ],
+    "Compliance Record": [
+        "Date of Last AGM",
+        "Date of Last AR",
+        "Date of A/C Laid at Last AGM"
+    ],
+    "Financial Data": [
+        "TYPE",
+        "CURRENCY",
+        "FYE-31/12/20XX",
+        "FYE-31/12/20XX.1",
+        "% CHANGE"
+    ],
+    "Key Ratios": [
+        "FYE",
+        "Profit Margin",
+        "Liquidity [times]",
+        "Debt [times]"
+    ],
+    "Analysis": [
+        "FINANCIAL RATIO / INDICATOR",
+        "COMPANY LEVEL (FYE 31/12/20XX)",
+        "INDUSTRY MEDIAN"
+    ],
+    "Writ of Sum. Org. Claim": [
+        "SN",
+        "Court/Type",
+        "Case No.",
+        "Year",
+        "Filing Date",
+        "Plaintiff / Petitioner / Claimant",
+        "Case Status",
+        "Case Status Date",
+        "Case Status Remarks",
+        "Plaintiff / Claimant Status",
+        "Plaintiff / Claimant Status Date",
+        "Defendant Status",
+        "Defendant Status Date",
+        "Amount(s)",
+        "Last Updated in Experian Database",
+        "Main Cause"
+    ],
+    "Winding Up": [
+        "Type",
+        "Case No.",
+        "Year",
+        "Filing Date",
+        "Other Party Name",
+        "Case Status",
+        "Case Status Date",
+        "Other Party Status",
+        "Other Party Status Date",
+        "Defendant Status",
+        "Defendant Status Date",
+        "Amount(s)",
+        "Last Updated in Experian Database"
+    ],
+    "OS OA OP OM": [
+        "Type",
+        "Case No.",
+        "Year",
+        "Filing Date",
+        "Other Party Name",
+        "Case Status",
+        "Case Status Date",
+        "Other Party Status",
+        "Other Party Status Date",
+        "Defendant Status",
+        "Defendant Status Date",
+        "Amount(s)",
+        "Last Updated in Experian Database"
+    ],
+    "Add Exp Prop. Info": [
+        "No. of Employees",
+        "Commercial Properties Owned"
+    ],
+    "Accreditations": [
+        "Award",
+        "Year",
+        "Ranking"
+    ],
+    "Financial Related Search Count": [
+        "Year",
+        "Total",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+    ],
+    "Commercial Related Search Count": [
+        "Year",
+        "Total",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+    ],
+    "Legal Related Search Count": [
+        "Year",
+        "Total",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+    ]
+}

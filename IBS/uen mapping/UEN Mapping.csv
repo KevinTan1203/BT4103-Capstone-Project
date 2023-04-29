@@ -1,0 +1,40 @@
+﻿Issuance Agency,Entity-Type,Entity-Type Indicator
+Accounting and Corporate Regulatory Authority (ACRA),Limited Partnership,LP
+Accounting and Corporate Regulatory Authority (ACRA),Limited Liability Partnerships,LL
+Accounting and Corporate Regulatory Authority (ACRA),Foreign Companies,FC
+Accounting and Corporate Regulatory Authority (ACRA),Public Accounting Firms,PF
+Enterprise Singapore (ESG),"Representative Offices of Foreign Companies, Foreign Government Agencies, or Foreign Trade Associations/Chambers/Non-Profit Organisations",RF
+Islamic Religious Council of Singapore - Majlis Ugama Islam Singapura (Muis),Mosques,MQ
+Islamic Religious Council of Singapore - Majlis Ugama Islam Singapura (Muis),Madrasahs,MM
+Ministry of Communications and Information (MCI),News Bureaus,NB
+"Ministry of Culture, Community and Youth - Charities Unit",Charities and Institutions of a Public Character,CC
+"Ministry of Culture, Community and Youth - Registry of Co-operative Societies",Cooperative Societies,CS
+"Ministry of Culture, Community and Youth - Registry of Mutual Benefit Organisation",Mutual Benefit Organisations,MB
+Ministry of Defence (Mindef),Foreign Military Units,FM
+Ministry of Education (MOE),Government and Government-Aided Schools,GS
+Ministry of Foreign Affairs (MFA),"High Commissions, Embassies",DP
+Ministry of Foreign Affairs (MFA),Consulate,CP
+Ministry of Foreign Affairs (MFA),International Organisations (registered with MFA),NR
+Ministry of Health (MOH),Medical Clinic Only,CM
+Ministry of Health (MOH),Dental Clinic Only,CD
+Ministry of Health (MOH),Both Medical and Dental Clinic,MD
+Ministry of Health (MOH),Hospitals,HS
+Ministry of Health (MOH),Voluntary Welfare Home,VH
+Ministry of Health (MOH),Commercial Home,CH
+Ministry of Health (MOH),Maternity Home,MH
+Ministry of Health (MOH),Clinical Laboratory Only,CL
+Ministry of Health (MOH),Xray Laboratory Only,XL
+Ministry of Health (MOH),Both Clinical and Xray Laboratory,CX
+Ministry of Health (MOH),Healthcare Service Providers,HC
+Ministry of Law (MLAW),Foreign Law Practice Representative Offices,RP
+Ministry of Manpower (MOM),Trade Unions,TU
+Ministry of National Development (MND),Town Councils,TC
+Monetary Authority of Singapore (MAS),Bank Representative Offices,FB
+Monetary Authority of Singapore (MAS),Insurance Representative Offices,FN
+People's Association (PA),PA Services,PA
+People's Association (PA),Grassroot Units,PB
+Registry of Societies (ROS),Societies,SS
+Singapore Land Authority ( SLA),Management Corporations,MC
+Singapore Land Authority ( SLA),Subsidiary Management Corporations,SM
+Smart Nation and Digital Government Office (SNDGO),"Organs of State, Ministries and Departments",GA
+Smart Nation and Digital Government Office (SNDGO),Statutory Boards and bodies performing public duties,GB

@@ -1,0 +1,129 @@
+{
+    "firstName": [
+        "SUNSHINE", "SUNSET", "MOONLIGHT", "DAWN", "TWILIGHT", "DAWN", "DUSK", "MIDNIGHT"
+    ],
+    "middleName": [
+        "PLASTIC", "GREENYARN", "METAL", "WOOD", "WATER", "AIR", "RIVER"
+    ],
+    "sector": [
+        "INTERNATIONAL", "REGIONAL", "COAST", "CENTRAL", "STATE", "PREFECTURE"
+    ],
+    "streetNameFirst": [
+        "PASIR RIS", "MILTON HAWKWAY", "JURONG", "CALDECOTT", "PUNGGOL", "CHANGI", "WESTWORD"
+    ],
+    "streetNameLast": [
+        "DRIVE", "AVENUE", "BOULEVARD", "MAISON", "BROADWAY", "MATERSON"
+    ],
+    "companyType": [
+        "CORP", "PTE LIMITED", "ENTERPRISE"
+    ],
+    "humanFirstName": [
+        "SUSAN", "TOM", "KEVIN", "CHARLES", "MAY", "GOTHRY", "SARA", "MABLE"
+    ],
+    "humanMiddleName": [
+        "SOUZ", "MEI", "BIN", "LIN", "LEE", "NG", "HOW"
+    ],
+    "humanLastName": [
+        "ABEL", "PATHERSON", "XINYING", "LEQUAN", "NAQUILA"
+    ],
+    "principleActivities": [
+        "CLEANING SERVICES", "WASHING SOLUTIONS", "DISINFECTANT PROVIDER", "STAIN REMOVER", "GREASE REMOVER"
+    ],
+    "CHARGE_STATUS": [
+        "CURRENT",
+        "PARTIAL SATISFACTION AND REMAIN IN REGISTER"
+    ],
+    "COUNTRY": [
+        "SINGAPORE",
+        "MALAYSIA", 
+        "VIETNAM"
+    ],
+    "SHARE_TYPE": [
+        "ORDINARY",
+        "PREFERENCE",
+        "REDEEMABLE PREFERENCE",
+        "CONVERTIBLE PREFERENCE",
+        "TREASURY"
+    ],
+    "COY_TYPE": [
+        "EXEMPT PRIVATE COMPANY",
+        "PRIVATE COMPANY LIMITED BY SHARES",
+        "PUBLIC COMPANY LIMITED BY SHARES",
+        "PUBLIC COMPANY LIMITED BY GUARANTEE",
+        "UNLIMITED PRIVATE COMPANY",
+        "UNLIMITED EXEMPT PRIVATE COMPANY",
+        "UNLIMITED PUBLIC COMPANY"
+    ],
+    "COY_STATUS": [
+        "LIVE",
+        "CANCELLATION",
+        "CANCELLED",
+        "CEASED REGISTRATION",
+        "CONVERTED TO LLP",
+        "DISSOLVED",
+        "GAZETTED TO BE STRUCK OFF",
+        "IN LIQUIDATION",
+        "IN RECEIVERSHIP",
+        "NA",
+        "REGISTRATION EXPIRED AND HAS NOT BEEN RENEWED",
+        "REMOVED",
+        "STRUCK OFF",
+        "SUSPENDED",
+        "TO BE CEASED",
+        "UNDER JUDICIAL MANAGEMENT"
+    ],
+    "AUDITOR": [
+        "KPMG", 
+        "DELOITTE", 
+        "PWC", 
+        "EY"
+    ],
+    "NATIONALITY": [
+        "SINGAPORE", 
+        "MALAYSIA", 
+        "VIETNAM", 
+        "THAILAND", 
+        "ITALY", 
+        "US", 
+        "UK", 
+        "NORWAY"
+    ],
+    "OFFICERS_POS_HELD": [
+        "DIRECTOR",
+        "SECRETARY"
+    ],
+    "WRIT_SUM_COURT_TYPE": [
+        "SC / WOS",
+        "DC / WOS",
+        "DC / OC",
+        "SC / OC",
+        "MC / WOS",
+        "MC / OC"
+    ],
+    "FINANCIAL_REL_SEARCH_COUNT_VAL": [
+        "Trade Insurance",
+        "Financial Institution",
+        "Hire Purchase / Leasing",
+        "Others"
+    ],
+    "COMMERCIAL_REL_SEARCH_COUNT_VAL": [
+        "Commercial-Retail",
+        "Services",
+        "Others"
+    ],
+    "LEGAL_REL_SEARCH_COUNT_VAL": [
+        "Litigation",
+        "Conveyancing",
+        "Others"
+    ]
+}
+
+
+
+
+    
+
+
+
+
+

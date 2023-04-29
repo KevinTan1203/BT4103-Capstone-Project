@@ -1,0 +1,86 @@
+{
+    "firstName": [
+        "SUNSHINE", "SUNSET", "MOONLIGHT", "DAWN", "TWILIGHT", "DAWN", "DUSK", "MIDNIGHT"
+    ],
+    "middleName": [
+        "PLASTIC", "GREENYARN", "METAL", "WOOD", "WATER", "AIR", "RIVER"
+    ],
+    "sector": [
+        "INTERNATIONAL", "REGIONAL", "COAST", "CENTRAL", "STATE", "PREFECTURE"
+    ],
+    "streetNameFirst": [
+        "PASIR RIS", "MILTON HAWKWAY", "JURONG", "CALDECOTT", "PUNGGOL", "CHANGI", "WESTWORD"
+    ],
+    "streetNameLast": [
+        "DRIVE", "AVENUE", "BOULEVARD", "MAISON", "BROADWAY", "MATERSON"
+    ],
+    "companyType": [
+        "CORP", "PTE LIMITED", "ENTERPRISE"
+    ],
+    "humanFirstName": [
+        "SUSAN", "TOM", "KEVIN", "CHARLES", "MAY", "GOTHRY", "SARA", "MABLE"
+    ],
+    "humanMiddleName": [
+        "SOUZ", "MEI", "BIN", "LIN", "LEE", "NG", "HOW"
+    ],
+    "humanLastName": [
+        "ABEL", "PATHERSON", "XINYING", "LEQUAN", "NAQUILA"
+    ],
+    "accreditationAwards" : [
+        "Singapore Business Awards",
+        "Singapore 1000",
+        "Enterprise 50 (E50)",
+        "Enterprise 50 (E50)",
+        "Singapore Sustainability Awards",
+        "Singapore Corporate Awards",
+        "Singapore Packaging Star Awards",
+        "Singapore Productivity Awards"
+    ],
+    "COY_STATUS": [
+        "LIVE",
+        "CANCELLATION",
+        "CANCELLED",
+        "CEASED REGISTRATION",
+        "CONVERTED TO LLP",
+        "DISSOLVED",
+        "GAZETTED TO BE STRUCK OFF",
+        "IN LIQUIDATION",
+        "IN RECEIVERSHIP",
+        "NA",
+        "REGISTRATION EXPIRED AND HAS NOT BEEN RENEWED",
+        "REMOVED",
+        "STRUCK OFF",
+        "SUSPENDED",
+        "TO BE CEASED",
+        "UNDER JUDICIAL MANAGEMENT"
+    ],
+    "POSITION": [
+        "DIRECTOR",
+        "SHAREHOLDER",
+        "OWNER"
+    ],
+    "WRIT_SUM_COURT_TYPE": [
+        "SC / WOS",
+        "DC / WOS",
+        "DC / OC",
+        "SC / OC",
+        "MC / WOS",
+        "MC / OC"
+    ],
+    "FINANCIAL_REL_SEARCH_COUNT_VAL": [
+        "Trade Insurance",
+        "Financial Institution",
+        "Hire Purchase / Leasing",
+        "Others"
+    ],
+    "COMMERCIAL_REL_SEARCH_COUNT_VAL": [
+        "Commercial-Retail",
+        "Services",
+        "Others"
+    ],
+    "LEGAL_REL_SEARCH_COUNT_VAL": [
+        "Litigation",
+        "Conveyancing",
+        "Others"
+    ]
+}

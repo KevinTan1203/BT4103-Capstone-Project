@@ -1,0 +1,87 @@
+,feature,iv,number_of_classes,feature_null_percent,remarks
+0,amountOfProfitAfterTax,0.0,5,0.0,binned monotonically
+1,amountOfRevenue,0.0,5,0.0,binned monotonically
+2,amountOfShareholdersFund,0.0,5,0.0,binned monotonically
+3,auditor,0.06757751801802742,4,0.0,categorical
+4,commercialPropertiesOwned,0.0,4,0.0,categorical
+5,companyCreditHistoryDuration,0.7324081924454066,2,0.0,binned forcefully
+6,companyDebtRatio,0.11552453009332421,2,0.0,binned forcefully
+7,companyLiquidity,0.11552453009332421,2,0.0,binned forcefully
+8,companyNetProfitMarginAgainstIndustryMedian,0.0,5,0.0,binned monotonically
+9,companyPrincipalActivitySubClass,0.0,5,0.0,categorical
+10,companyProfitMargin,0.0,5,0.0,categorical
+11,companyReturnOnAssets,0.0,5,0.0,categorical
+12,companyReturnOnAssetsAgainstIndustryMedian,0.11552453009332421,2,0.0,binned forcefully
+13,companyRevenueGrowth,0.0,5,0.0,categorical
+14,companyRevenueGrowthAgainstIndustryMedian,0.0,5,0.0,binned monotonically
+15,companyTotalAssetTurnover,0.0,5,0.0,categorical
+16,companyTotalAssetTurnoverAgainstIndustryMedian,0.11552453009332421,2,0.0,binned forcefully
+17,countryOrRegionOfIncorporationOrRegistration,0.11552453009332421,2,0.0,categorical
+18,dateOfChangeOfNameOfCompany,0.0,5,0.0,categorical
+19,employeeCount,0.11552453009332421,2,0.0,binned forcefully
+20,goodDebtRatio,0.11552453009332421,2,0.0,categorical
+21,goodLiquidity,0.11552453009332421,2,0.0,categorical
+22,goodProfitMargin,0.0,1,0.0,categorical
+23,goodReturnOnAssets,0.0,1,0.0,categorical
+24,goodRevenueGrowth,0.7324081924454066,2,0.0,categorical
+25,goodTotalAssetTurnover,0.0,1,0.0,categorical
+26,increaseInCommercialSearchCount,0.34657359027997264,2,0.0,binned monotonically
+27,increaseInFinancialSearchCount,0.06757751801802742,3,0.0,binned monotonically
+28,increaseInLegalSearchCount,0.11552453009332421,2,0.0,binned forcefully
+29,increasedDebtRatioFromPreviousYear,0.11552453009332421,2,0.0,binned forcefully
+30,increasedLiquidityFromPreviousYear,0.7324081924454066,2,0.0,binned forcefully
+31,increasedProfitFromPreviousYear,0.0,5,0.0,binned monotonically
+32,increasedProfitMarginFromPreviousYear,0.11552453009332421,2,0.0,binned forcefully
+33,increasedRevenueFromPreviousYear,0.0,5,0.0,binned monotonically
+34,increasedShareholdersFundFromPreviousYear,0.0,5,0.0,binned monotonically
+35,isProfitable,0.0,1,0.0,categorical
+36,lengthOfBankingRelationship,0.0,5,0.0,categorical
+37,numExistingLoans,0.34657359027997264,2,0.0,categorical
+38,numShareholders,0.13515503603605483,3,0.0,binned monotonically
+39,numShareholdersWithMoreThan20PercentShares,0.13515503603605483,3,0.0,binned monotonically
+40,positiveShareholdersFund,0.0,1,0.0,categorical
+41,priceOfCompanyIssuedOrdinary,0.11552453009332421,2,0.0,binned forcefully
+42,profitPerEmployee,0.11552453009332421,2,0.0,binned forcefully
+43,recentYearCommercialRetailSearchCount,0.0,1,0.0,categorical
+44,recentYearCommercialSearchCount,0.0,1,0.0,categorical
+45,recentYearConveyancingSearchCount,0.0,1,0.0,categorical
+46,recentYearFinancialInstitutionSearchCount,0.0,1,0.0,categorical
+47,recentYearFinancialSearchCount,0.0,1,0.0,categorical
+48,recentYearHirePurchaseLeasingSearchCount,0.0,1,0.0,categorical
+49,recentYearLegalSearchCount,0.0,1,0.0,categorical
+50,recentYearLitigationSearchCount,0.0,1,0.0,categorical
+51,recentYearServicesSearchCount,0.0,1,0.0,categorical
+52,recentYearTradeInsuranceSearchCount,0.0,1,0.0,categorical
+53,revenuePerEmployee,0.11552453009332421,2,0.0,binned forcefully
+54,totalConcludedOAAmount,0.0,1,0.0,categorical
+55,totalConcludedOCAmount,0.0,1,0.0,categorical
+56,totalConcludedOMAmount,0.0,1,0.0,categorical
+57,totalConcludedOPAmount,0.0,1,0.0,categorical
+58,totalConcludedOSOAOPOMAmount,0.0,1,0.0,categorical
+59,totalConcludedWOSAmount,0.0,1,0.0,categorical
+60,totalConcludedWindingUpAmount,0.0,1,0.0,categorical
+61,totalOAAmount,0.0,1,0.0,categorical
+62,totalOAAmountAgainstRevenue,0.0,1,0.0,categorical
+63,totalOCAmount,0.0,1,0.0,categorical
+64,totalOCAmountAgainstRevenue,0.0,1,0.0,categorical
+65,totalOMAmount,0.0,1,0.0,categorical
+66,totalOMAmountAgainstRevenue,0.0,1,0.0,categorical
+67,totalOPAmount,0.0,1,0.0,categorical
+68,totalOPAmountAgainstRevenue,0.0,1,0.0,categorical
+69,totalOSAmount,0.11552453009332421,2,0.0,binned forcefully
+70,totalOSAmountAgainstRevenue,0.11552453009332421,2,0.0,binned forcefully
+71,totalOSOAOPOMAmount,0.11552453009332421,2,0.0,binned forcefully
+72,totalOSOAOPOMAmountAgainstRevenue,0.11552453009332421,2,0.0,binned forcefully
+73,totalPendingOAAmount,0.0,1,0.0,categorical
+74,totalPendingOCAmount,0.0,1,0.0,categorical
+75,totalPendingOMAmount,0.0,1,0.0,categorical
+76,totalPendingOSAmount,0.0,1,0.0,categorical
+77,totalPendingOSOAOPOMAmount,0.0,1,0.0,categorical
+78,totalPendingWOSAmount,0.0,1,0.0,categorical
+79,totalPendingWindingUpAmount,0.0,1,0.0,categorical
+80,totalWOSAmount,0.0,1,0.0,categorical
+81,totalWOSAmountAgainstRevenue,0.0,1,0.0,categorical
+82,totalWOSAndOCAgainstRevenue,0.0,1,0.0,categorical
+83,totalWOSAndOCAmount,0.0,1,0.0,categorical
+84,totalWindingUpAmount,0.11552453009332421,2,0.0,binned forcefully
+85,windingUpTotalAmountAgainstRevenue,0.7324081924454066,2,0.0,binned forcefully
